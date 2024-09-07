@@ -1,8 +1,8 @@
 import { useState } from "react";
-import Logo from "../assets/Images/icon.png";
+import icon from "../assets/Images/icon.png";
 import Autolayout from "../assets/Images/Autolayout.png";
 import User from  "../assets/Images/User.svg"
-import "./Page1.css"
+import "./Page1.css";
 import Star from "../assets/Images/Star.png";
 import Ellipse17 from "../assets/Images/Ellipse17.svg";
 import Ellipse18 from "../assets/Images/Ellipse18.svg";
@@ -29,7 +29,7 @@ export default function Page() {
         <div className="Znisa-container">
         <div className="Znisa">
         <div className="Head">
-          <img src={Logo} alt="" />
+          <img src={icon} alt="" />
           <div className="nav-List">
           <ul className="List">
             <li><img src={Home} alt="" /></li>
