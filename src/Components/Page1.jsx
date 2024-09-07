@@ -1,5 +1,5 @@
 import { useState } from "react";
-import icon from "../assets/Images/icon.png";
+import icon from "../assets/Images/Icon.png";
 import Autolayout from "../assets/Images/Autolayout.png";
 import User from  "../assets/Images/User.svg"
 import "./Page1.css";
