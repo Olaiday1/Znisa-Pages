@@ -1,6 +1,6 @@
 # React + Vite
 
-# live link - https://olaiday1.github.io/Znisa-Pages/ figma link - https://www.figma.com/design/zVrNsqDQK6XBcj2Rf1XkeD/2024-Portfolios-(Community)?node-id=0-1&t=OHDvPsAHuydeXWsw-0
+# live link - https://page-onrender-com.onrender.com/ figma link - https://www.figma.com/design/zVrNsqDQK6XBcj2Rf1XkeD/2024-Portfolios-(Community)?node-id=0-1&t=OHDvPsAHuydeXWsw-0
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
