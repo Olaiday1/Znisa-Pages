@@ -1,5 +1,5 @@
 import { useState } from "react";
-import Logo from "../assets/Images/icon.png";
+import Icon from "../assets/Images/Icon.png";
 import Autolayout from "../assets/Images/Autolayout.png";
 import User from  "../assets/Images/User.svg"
 import "./Page1.css"
@@ -29,7 +29,7 @@ export default function Page() {
         <div className="Znisa-container">
         <div className="Znisa">
         <div className="Head">
-          <img src={Logo} alt="" />
+          <img src={Icon} alt="Icon" />
           <div className="nav-List">
           <ul className="List">
             <li><img src={Home} alt="" /></li>
@@ -289,7 +289,7 @@ export default function Page() {
            
 
           <div className="Head">
-          <img src={Logo} alt="" />
+          <img src={Icon} alt="" />
           <ul className="List">
             <li><img src={Twitter} alt="" /></li>
             <li><img src={Web} alt="" /></li>
