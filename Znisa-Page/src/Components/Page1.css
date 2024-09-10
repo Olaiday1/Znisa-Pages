@@ -5,15 +5,11 @@
 }
 body {
     background-color: #101111;
-    min-width: 320px;
     display: flex;
     min-height: 100vh;
 }
 .Znisa {
-    width: 100%;
-    height: 4000px;
-    top: -1801px;
-    left: 4073px;
+    
     gap: 0px;
     border-radius: 3px 0px 0px 0px;
     opacity: 0px;
